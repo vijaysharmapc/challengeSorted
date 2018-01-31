@@ -1,6 +1,6 @@
 # challengeSorted
 
-ON python3 cli- please run the file finalMatchingProductListing.py (python finalMatchingProductListing.py)
+On python3 cli- please run the file finalMatchingProductListing.py (python finalMatchingProductListing.py)
 On NOtebook - please view and run the commands in file "finalMatchingProductListing.ipynb"
 
 
