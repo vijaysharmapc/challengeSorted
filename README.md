@@ -1,11 +1,10 @@
 # challengeSorted
+Contains:
+Challenged posted here (https://sortable.com/project/)
+
 
 On python3 cli- please run the file finalMatchingProductListing.py (python finalMatchingProductListing.py)
 On NOtebook - please view and run the commands in file "finalMatchingProductListing.ipynb"
-
-
-Contains:
-Challenged posted here (https://sortable.com/project/)
 
 Steps followed:
 1) Read the files into Pandas Dataframe
