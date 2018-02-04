@@ -1,6 +1,6 @@
 # challengeSorted
 Contains:
-Challenged posted here (https://sortable.com/project/)
+Challenge posted here (https://sortable.com/project/)
 
 
 On python3 cli- please run the file finalMatchingProductListing.py (python finalMatchingProductListing.py).
